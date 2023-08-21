@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\fpcupdeluxe\fpcupdeluxe\fpc\bin\x86_64-win64\fpc.exe" Date="1364036611"/>
+  <Params Value=" -Tdarwin -Pi386 -MObjFPC -Scghi -O1 -gw -gl -k-framework -kCarbon -k-framework -kOpenGL -k-dylib_file -k/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib:/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib -l -vewnhibq &quot;-FiC:\fpcupdeluxe\fpcupdeluxe\projects\projetos\hello world\lib\i386-darwin&quot; -FuC:\fpcupdeluxe\fpcupdeluxe\lazarus\lcl\units\i386-darwin\carbon -FuC:\fpcupdeluxe\fpcupdeluxe\lazarus\lcl\units\i386-darwin -FuC:\fpcupdeluxe\fpcupdeluxe\lazarus\components\lazutils\lib\i386-darwin -FuC:\fpcupdeluxe\fpcupdeluxe\lazarus\packager\units\i386-darwin &quot;-FuC:\fpcupdeluxe\fpcupdeluxe\projects\projetos\hello world\&quot; &quot;-FUC:\fpcupdeluxe\fpcupdeluxe\projects\projetos\hello world\lib\i386-darwin\&quot; &quot;-FEC:\fpcupdeluxe\fpcupdeluxe\projects\projetos\hello world\&quot; &quot;-oC:\fpcupdeluxe\fpcupdeluxe\projects\projetos\hello world\hello&quot; -dLCL -dLCLcarbon hello.lpr"/>
+</CONFIG>

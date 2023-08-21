@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\fpcupdeluxe\fpcupdeluxe\fpc\bin\x86_64-win64\fpc.exe" Date="1364036611"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq &quot;-FiC:\fpcupdeluxe\fpcupdeluxe\projects\projetos\hello world\lib\x86_64-win64&quot; -FuC:\fpcupdeluxe\fpcupdeluxe\lazarus\lcl\units\x86_64-win64\win32 -FuC:\fpcupdeluxe\fpcupdeluxe\lazarus\lcl\units\x86_64-win64 -FuC:\fpcupdeluxe\fpcupdeluxe\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\fpcupdeluxe\fpcupdeluxe\lazarus\packager\units\x86_64-win64 &quot;-FuC:\fpcupdeluxe\fpcupdeluxe\projects\projetos\hello world\&quot; &quot;-FUC:\fpcupdeluxe\fpcupdeluxe\projects\projetos\hello world\lib\x86_64-win64\&quot; &quot;-FEC:\fpcupdeluxe\fpcupdeluxe\projects\projetos\hello world\&quot; &quot;-oC:\fpcupdeluxe\fpcupdeluxe\projects\projetos\hello world\hello.exe&quot; -dLCL -dLCLwin32 hello.lpr"/>
+</CONFIG>
